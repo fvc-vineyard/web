@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "title": "Learning Resources",
+    "subtitle": "Curated books, podcasts, and websites to deepen your faith and fuel your growth."
+  },
+  "topicLabels": {
+    "formation": "Formation",
+    "spiritual-disciplines": "Spiritual Disciplines",
+    "theology": "Theology",
+    "bible": "Bible",
+    "salvation": "Salvation",
+    "holy-spirit": "Holy Spirit",
+    "discipleship": "Discipleship"
+  },
+  "books": [
+    {
+      "id": "ruthless-elimination-hurry",
+      "title": "The Ruthless Elimination of Hurry",
+      "author": "John Mark Comer",
+      "topics": ["formation", "spiritual-disciplines"],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/0525653090-L.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/0525653090",
+      "description": "How to remain emotionally healthy and spiritually alive in the chaos of the modern world."
+    },
+    {
+      "id": "practicing-the-way",
+      "title": "Practicing the Way",
+      "author": "John Mark Comer",
+      "topics": ["formation", "spiritual-disciplines", "discipleship"],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780593193822-L.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/0593193822",
+      "description": "A handbook for apprenticeship to Jesus through spiritual practices, community, and mission."
+    },
+    {
+      "id": "celebration-of-discipline",
+      "title": "Celebration of Discipline",
+      "author": "Richard Foster",
+      "topics": ["spiritual-disciplines", "formation"],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062803887-L.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/0062803883",
+      "description": "The classic guide to the inward, outward, and corporate disciplines of the Christian life."
+    },
+    {
+      "id": "simply-christian",
+      "title": "Simply Christian",
+      "author": "N.T. Wright",
+      "topics": ["theology", "formation"],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780061920622-L.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/0061920622",
+      "description": "A compelling invitation into the heart of what Christianity is all about and why it matters."
+    },
+    {
+      "id": "king-jesus-gospel",
+      "title": "The King Jesus Gospel",
+      "author": "Scot McKnight",
+      "topics": ["theology", "salvation"],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780310492986-L.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/0310531454",
+      "description": "Recovering the original gospel as the story of Jesus completing Israel's narrative."
+    },
+    {
+      "id": "blue-parakeet",
+      "title": "The Blue Parakeet",
+      "author": "Scot McKnight",
+      "topics": ["bible", "theology"],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780310538929-L.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/0310538920",
+      "description": "Rethinking how we read the Bible by learning to listen to God's voice in every part of the story."
+    },
+    {
+      "id": "how-not-to-read-bible",
+      "title": "How (Not) to Read the Bible",
+      "author": "Dan Kimball",
+      "topics": ["bible"],
+      "coverUrl": "https://g.christianbook.com/dg/product/web/f400/54183.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/0310254183",
+      "description": "Making sense of the strange, troublesome, and misunderstood parts of Scripture."
+    },
+    {
+      "id": "return-prodigal-son",
+      "title": "The Return of the Prodigal Son",
+      "author": "Henri Nouwen",
+      "topics": ["formation", "spiritual-disciplines"],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780385473071-L.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/0385473079",
+      "description": "A spiritual meditation on homecoming, forgiveness, and God's unconditional love through Rembrandt's painting."
+    },
+    {
+      "id": "surprised-by-hope",
+      "title": "Surprised by Hope",
+      "author": "N.T. Wright",
+      "topics": ["theology", "salvation"],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780061551826-L.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/0062089978",
+      "description": "Rethinking heaven, the resurrection, and the mission of the church."
+    },
+    {
+      "id": "familiar-stranger",
+      "title": "The Familiar Stranger",
+      "author": "Tyler Staton",
+      "topics": ["formation", "holy-spirit"],
+      "coverUrl": "https://images.squarespace-cdn.com/content/v1/62f4240b6378f20af35390c4/4fe8a262-4027-4311-a4b5-689d6d7c3b7e/TFS.jpg",
+      "amazonUrl": "https://www.amazon.com/Familiar-Stranger-Introducing-Experiential-Spirituality/dp/1400247705",
+      "description": "Re-introducing the Holy Spirit to those in search of an experiential spirituality."
+    },
+    {
+      "id": "genesis-to-junia",
+      "title": "From Genesis to Junia",
+      "author": "Preston Sprinkle",
+      "topics": ["theology", "bible"],
+      "coverUrl": "https://davidccook.org/wp-content/uploads/978083078580_HI-996x1500.jpg",
+      "amazonUrl": "https://www.amazon.com/Genesis-Junia-Honest-Search-Leadership/dp/0830785809",
+      "description": "An honest search for what the Bible really says about women in leadership."
+    }
+  ],
+  "podcasts": [
+    {
+      "id": "bible-project",
+      "title": "The Bible Project",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/d1/4a/ab/d14aab84-7078-0e1e-62ae-555427fdcbf0/mza_14708127025668720447.jpg/600x600bb.jpg",
+      "listenUrl": "https://bibleproject.com/podcasts/the-bible-project-podcast/",
+      "description": "Exploring the biblical story from beginning to end through conversations and visual media."
+    },
+    {
+      "id": "theology-raw",
+      "title": "Theology in the Raw",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/22/ea/af22eac0-7dc4-95ae-085b-d17ce4f3d8ca/mza_1480312785715153362.jpeg/600x600bb.jpg",
+      "listenUrl": "https://www.prestonsprinkle.com/theology-in-the-raw",
+      "description": "Preston Sprinkle explores theology, culture, and all the things that make people uncomfortable."
+    },
+    {
+      "id": "strange-bible",
+      "title": "Exploring My Strange Bible",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/b2/bd/0bb2bd77-850d-737e-090b-5cddca165808/mza_5039904520476234593.jpg/600x600bb.jpg",
+      "listenUrl": "https://bibleproject.com/podcasts/exploring-my-strange-bible/",
+      "description": "Tim Mackie shares insights from years of studying and teaching the Bible."
+    },
+    {
+      "id": "nt-wright",
+      "title": "Ask NT Wright Anything",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fa/f8/e5/faf8e5de-7296-ad23-607a-eb85ebbc0eea/mza_12422102317594893021.jpg/600x600bb.jpg",
+      "listenUrl": "https://podcasts.apple.com/us/podcast/ask-n-t-wright-anything/id1441656192",
+      "description": "World-renowned Bible scholar NT Wright answers listener questions on faith, theology, and life."
+    },
+    {
+      "id": "holy-post",
+      "title": "Holy Post Podcast",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/2c/a5/9b2ca564-1ce7-fae8-04fa-63d8e30bcdb8/mza_6685621244595433790.jpg/600x600bb.jpg",
+      "listenUrl": "https://www.holypost.com/",
+      "description": "Phil Vischer and friends explore faith, media, and culture with insight and humor."
+    }
+  ],
+  "websites": [
+    {
+      "id": "bible-project-site",
+      "title": "BibleProject",
+      "url": "https://www.bibleproject.com",
+      "previewImageUrl": "https://www.bibleproject.com/static/og-image.png",
+      "description": "Visual Bible exploration through animated videos, podcasts, and study tools that walk through every book of the Bible."
+    }
+  ]
+}
