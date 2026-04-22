@@ -158,12 +158,5 @@
       "previewImageUrl": "https://www.bibleproject.com/static/og-image.png",
       "description": "Visual Bible exploration through animated videos, podcasts, and study tools that walk through every book of the Bible."
     }
-    {
-      "id": "breadle",
-      "title": "Breadle",
-      "url": "https://www.breadle.app",
-      "previewImageUrl": "https://breadle.app/Assets/breadle_sharing.jpg",
-      "description": "Fun daily bible verse memorization tool. New verse drops daily at midnight. Worldle meets memorization."
-    }
   ]
 }
