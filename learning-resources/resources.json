@@ -158,5 +158,11 @@
       "previewImageUrl": "https://www.bibleproject.com/static/og-image.png",
       "description": "Visual Bible exploration through animated videos, podcasts, and study tools that walk through every book of the Bible."
     }
+    {
+  "id": "breadle-app",
+  "title": "Breadle",
+  "url": "https://www.breadle.app",
+  "description": "A daily Bible verse word game for your church community."
+}
   ]
 }
